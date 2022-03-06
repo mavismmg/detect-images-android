@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239043781926",
+    "project_id": "android-ml-detect-im",
+    "storage_bucket": "android-ml-detect-im.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239043781926:android:f2a1e8889c638ea0428de7",
+        "android_client_info": {
+          "package_name": "com.example.detect_images_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239043781926-h9ffb730rand4f2ct1fjge33qje6ijl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD7TqPxafIQ6oZVzwmvo27xZkQIAQg5xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239043781926-h9ffb730rand4f2ct1fjge33qje6ijl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
